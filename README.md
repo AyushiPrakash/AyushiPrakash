@@ -1,6 +1,6 @@
 ### Hi there 🙋🖐🏻
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="400" width="400">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="200" width="400">
 
 <!--
 **AyushiPrakash/AyushiPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
