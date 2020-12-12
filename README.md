@@ -9,7 +9,7 @@
 -->
 
 - 🔭 I’m currently working on **Web Development.**
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning **React.**
 - 💻 I ~~love~~ programming.
 
 [![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=AyushiPrakash&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
