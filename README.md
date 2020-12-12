@@ -1,5 +1,5 @@
 ### Hi there 🙋🖐🏻
-[Programming gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+![Programming gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 <!--
 **AyushiPrakash/AyushiPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
