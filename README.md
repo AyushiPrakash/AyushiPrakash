@@ -8,7 +8,7 @@
 
 -->
 
-- 🔭 I’m currently working on **Web Development. **
+- 🔭 I’m currently working on **Web Development.**
 - 🌱 I’m currently learning React.
 - 💻 I ~~love~~ programming.
 
