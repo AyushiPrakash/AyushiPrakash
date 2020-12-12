@@ -1,8 +1,11 @@
 ### Hi there 🙋🖐🏻
-![Programming gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="200">
 
 <!--
 **AyushiPrakash/AyushiPrakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Programming gif](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
+
 -->
 
 - 🔭 I’m currently working on Web Development.
