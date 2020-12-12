@@ -8,6 +8,6 @@
 - 🌱 I’m currently learning React.
 - 💻 I ~~love~~ programming.
 
-
+![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 [![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=AyushiPrakash&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiPrakash&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
