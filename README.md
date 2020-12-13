@@ -9,7 +9,7 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="300" width="600"> -->
 
 
-- <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="30"> I’m currently working on **Web Development.**
+- <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> I’m currently working on **Web Development.**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **React.**
 -  <img src="https://media.giphy.com/media/XIDYNVgfAgHjiWW2Dc/giphy.gif" width="25">I ~~love~~ programming.
 - 📫 Let's Connect :
