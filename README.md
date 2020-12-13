@@ -7,7 +7,7 @@
 
 - <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"> I’m currently working on **Web Development.**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **React.**
--  <img src="https://media.giphy.com/media/XIDYNVgfAgHjiWW2Dc/giphy.gif" width="30"> I ~~love~~ programming.
+-  <img src="https://media.giphy.com/media/XIDYNVgfAgHjiWW2Dc/giphy.gif" width="25"> I ~~love~~ programming.
 - 📫 Let's Connect :
  [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ayushi-prakash-9b14b4180/)
  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ayushiprakash_/)
