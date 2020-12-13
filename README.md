@@ -21,6 +21,6 @@
 
 <p align="center">
 Meanwhile check out my repositories and ❤️ ! ⭐️ some of them!
- <br>
-<img src="https://komarev.com/ghpvc/?username=AyushiPrakash&color=#d93a7c&label=Profile%20visits&style=flat-square" />
+ <br><br>
+<img src="https://komarev.com/ghpvc/?username=AyushiPrakash&color=d93a7c&label=Profile%20visits&style=flat-square" />
 </p>
