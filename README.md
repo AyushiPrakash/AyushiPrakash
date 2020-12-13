@@ -3,13 +3,13 @@
 <img align='right' src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="230">
 
 <!-- <p align="center">
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="300" width="600"> -->
-
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="300" width="600"   https://media.giphy.com/media/3EiNjNsKEFOYYIiNhA/giphy.gif> -->
 
 - <img src="https://media.giphy.com/media/iDaCeaKrHhUI1I8e2b/giphy.gif" width="25"> I’m currently working on **Web Development.**
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently learning **React.**
 - <img src="https://media.giphy.com/media/XIDYNVgfAgHjiWW2Dc/giphy.gif" width="25">I ~~love~~ programming.
-- <img src="https://media.giphy.com/media/3EiNjNsKEFOYYIiNhA/giphy.gif" width="30">Let's Connect :
+- <img src="https://media.giphy.com/media/dUTLSJax7LCr3LFGON/giphy.gif" width="30">Let's Connect :
+
  [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ayushi-prakash-9b14b4180/)
  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ayushiprakash_/)
 
