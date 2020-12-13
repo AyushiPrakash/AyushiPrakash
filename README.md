@@ -1,7 +1,7 @@
 <h2> Hi, I'm Ayushi!  <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<-- <p align="center">
+<!-- <p align="center">
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="300" width="600"> -->
 <p align='center'>
 <a href="https://github.com/ayushiprakash"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
