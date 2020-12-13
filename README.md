@@ -13,7 +13,7 @@
  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ayushiprakash_/)
 
 
-[![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=AyushiPrakash&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=AyushiPrakash&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiPrakash&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Meanwhile check out my repositories and ❤️ ! ⭐️ some of them!
