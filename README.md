@@ -12,7 +12,9 @@
  [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ayushi-prakash-9b14b4180/)
  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ayushiprakash_/)
 
+</em></p>
 [![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=AyushiPrakash&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+</em></p>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiPrakash&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 Meanwhile check out my repositories and ❤️ ! ⭐️ some of them!
