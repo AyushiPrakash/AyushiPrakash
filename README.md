@@ -5,7 +5,8 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="300" width="600"> -->
 
 
-- 🔭 I’m currently working on **Web Development.**
+- 🔭 I’m currently working on **Web Development.**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 - 🌱 I’m currently learning **React.**
 - 💻 I ~~love~~ programming.
 - 📫 Let's Connect :
