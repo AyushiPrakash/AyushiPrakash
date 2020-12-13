@@ -9,10 +9,6 @@
 - 🌱 I’m currently learning **React.**
 - 💻 I ~~love~~ programming.
 - 📫 Let's Connect :
-    <a href="https://github.com/ayushiprakash"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/dev.png?raw=true"></a>&nbsp;&nbsp;
-    <a href=""><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/instagram.jpg?raw=true"></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/ayushi-prakash-9b14b4180/"><img height="30" src="https://github.com/stephenajulu/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
-    </p>
  [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ayushi-prakash-9b14b4180/)
  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ayushiprakash_/)
 
