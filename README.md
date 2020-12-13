@@ -12,14 +12,9 @@
  [<br><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/ayushi-prakash-9b14b4180/)
  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/ayushiprakash_/)
 
-
-[![Ayushi's github stats](https://github-readme-stats.vercel.app/api?username=AyushiPrakash&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiPrakash&layout=compact&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushiPrakash&theme=radical&count_private=true&include_all_commits=true&show_icons=true&custom_title=%23%20GitHub%20Stats%20%E2%9C%85" width="460" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiPrakash&themeradical&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AyushiPrakash&theme=radical&layout=compact&langs_count=10&custom_title=%23%20Most%20Used%20Languages%20%F0%9F%91%A8%F0%9F%8F%BD%E2%80%8D%F0%9F%92%BB" />
 </p>
 
 Meanwhile check out my repositories and ❤️ ! ⭐️ some of them!
