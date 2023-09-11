@@ -6,8 +6,3 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" height="300" width="600"-->
 
 <!--<img align='right' src="https://media.giphy.com/media/RkX2zcpO79EAf82ESl/giphy.gif" width="220"> -->
-
-<br><br>
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AyushiPrakash&theme=highcontrast" />
-</p>
